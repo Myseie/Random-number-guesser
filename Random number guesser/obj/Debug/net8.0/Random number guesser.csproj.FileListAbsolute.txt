@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Random number guesser\bin\Debug\net8.0\Random number guesser.exe
+D:\Programmering\Programmering\Random number guesser\bin\Debug\net8.0\Random number guesser.deps.json
+D:\Programmering\Programmering\Random number guesser\bin\Debug\net8.0\Random number guesser.runtimeconfig.json
+D:\Programmering\Programmering\Random number guesser\bin\Debug\net8.0\Random number guesser.dll
+D:\Programmering\Programmering\Random number guesser\bin\Debug\net8.0\Random number guesser.pdb
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.AssemblyInfo.cs
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.dll
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\refint\Random number guesser.dll
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.pdb
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\Random number guesser.genruntimeconfig.cache
+D:\Programmering\Programmering\Random number guesser\obj\Debug\net8.0\ref\Random number guesser.dll
